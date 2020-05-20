@@ -1,0 +1,19 @@
+﻿@model List<string>;
+
+<h2>List Albums Containing the Word: @ViewBag.Phrase</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Album Titles</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item</td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,55 @@
+﻿@model IEnumerable<MusicStore.Models.Song>
+
+@{
+    ViewData["Title"] = "Recommendations";
+}
+
+<h3>Recommendations for:</h3>
+<h3>@ViewBag.Customer.Name</h3>
+<h4>@ViewBag.Customer.FavoriteGenre</h4>
+<h4>@ViewBag.Me</h4>
+<p>@ViewBag.time</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Artist)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Album)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ImagePath)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Title)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Artist)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Album)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Price)
+                </td>
+                <td>
+                    <img src="../../@Html.DisplayFor(modelItem => item.ImagePath)" height="100" width="100" />
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

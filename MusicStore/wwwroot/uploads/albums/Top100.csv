@@ -1,0 +1,101 @@
+Title,Artist,Album,ReleaseDate,Genre,Price
+Stairway to Heaven,Led Zeppelin,Led Zeppelin,3/13/1997,Rock,14.99
+Bohemian Rhapsody,Queen,Queen,1/27/2011,Pop,13.99
+Hey Jude,The Beatles,The Beatles,2/23/1980,Classic,11.99
+Hotel California,The Eagles,The Eagles,2/28/2005,Blue Grass,16.99
+Imagine,John Lennon,John Lennon,3/20/1965,Country,8.99
+Let It Be,The Beatles,The Beatles,3/14/1990,Techno,14.99
+Smells Like Teen Spirit,Nirvana,Nirvana,3/24/2005,Reggae,11.99
+Like a Rolling Stone,Bob Dylan,Bob Dylan,4/17/1964,Grunge,10.99
+Yesterday,The Beatles,The Beatles,4/25/2014,Jazz,8.99
+A Day in the Life,The Beatles,The Beatles,4/29/2003,Gospel,14.99
+Billie Jean,Michael Jackson,Michael Jackson,4/13/2011,Rock,11.99
+Comfortably Numb,Pink Floyd,Pink Floyd,4/14/1988,Pop,8.99
+Freebird,Lynyrd Skynyrd,Lynyrd Skynyrd,4/14/1955,Classic,7.99
+Beat It,Michael Jackson,Michael Jackson,4/15/1955,Blue Grass,11.99
+All Along the Watchtower,Jimi Hendrix,Jimi Hendrix,5/24/1976,Country,14.99
+Thriller,Michael Jackson,Michael Jackson,5/22/1974,Techno,14.99
+Wish You Were Here,Pink Floyd,Pink Floyd,5/26/2006,Reggae,11.99
+American Pie,Don McLean,Don McLean,5/29/1983,Grunge,7.99
+Satisfaction,The Rolling Stones,The Rolling Stones,5/23/1969,Jazz,6.99
+Piano Man,Billy Joel,Billy Joel,5/24/1973,Gospel,13.99
+Kashmir,Led Zeppelin,Led Zeppelin,5/26/1957,Rock,8.99
+Sympathy for the Devil,The Rolling Stones,The Rolling Stones,5/30/1968,Pop,16.99
+Strawberry Fields Forever,The Beatles,The Beatles,5/21/1972,Classic,15.99
+Bridge Over Troubled Waters,Simon and Garfunkel,Simon and Garfunkel,5/28/1982,Blue Grass,16.99
+November Rain,Guns n' Roses,Guns n' Roses,5/28/1986,Country,11.99
+God Only Knows,The Beach Boys,The Beach Boys,5/29/1972,Techno,10.99
+Wonderwall,Oasis,Oasis,6/16/2014,Reggae,7.99
+Sweet Child O' Mine,Guns n Roses,Guns n Roses,6/21/2011,Grunge,9.99
+Back in Black,AC/DC,AC/DC,6/24/1968,Jazz,12.99
+Gimme Shelter,The Rolling Stones,The Rolling Stones,6/25/1964,Gospel,16.99
+Dream On,Aerosmith,Aerosmith,6/24/1980,Rock,8.99
+Knockin' On Heaven's Door,Bob Dylan,Bob Dylan,6/24/1996,Pop,13.99
+What a Wonderful World,Louis Armstrong,Louis Armstrong,7/18/1977,Classic,8.99
+Man in the Mirror,Michael Jackson,Michael Jackson,7/20/1966,Blue Grass,10.99
+Light My Fire,The Doors,The Doors,7/28/1965,Country,15.99
+Johnny BGoode,Chuck Berry,Chuck Berry,7/17/1973,Techno,12.99
+Another Brick in the Wall,Pink Floyd,Pink Floyd,7/16/1966,Reggae,8.99
+Good Vibrations,The Beach Boys,The Beach Boys,7/20/1970,Grunge,15.99
+Purple Haze,Jimi Hendrix,Jimi Hendrix,8/18/1973,Jazz,6.99
+Losing My Religion,R.E.M.,R.E.M.,8/13/2000,Gospel,7.99
+Everlong,Foo Fighters,Foo Fighters,8/16/1962,Rock,13.99
+With or Without You,U2,U2,9/28/2003,Pop,8.99
+Blowin' in the Wind,Bob Dylan,Bob Dylan,9/17/1987,Classic,15.99
+Born to Run,Bruce Springsteen,Bruce Springsteen,9/23/1957,Blue Grass,10.99
+Tears in Heaven,Eric Clapton,Eric Clapton,9/22/1997,Country,12.99
+No Woman No Cry,Bob Marley,Bob Marley,9/18/1980,Techno,16.99
+One,U2,U2,9/21/1973,Reggae,13.99
+Black or White,Michael Jackson,Michael Jackson,10/25/1981,Grunge,10.99
+Voodoo Child (slight return),Jimi Hendrix,Jimi Hendrix,10/25/2007,Jazz,16.99
+London Calling,The Clash,The Clash,10/14/1990,Gospel,7.99
+Tiny Dancer,Elton John,Elton John,10/26/1969,Rock,14.99
+The End,The Doors,The Doors,10/26/1997,Pop,15.99
+Baba O'Riley,The Who,The Who,11/15/1992,Classic,7.99
+Smooth Criminal,Michael Jackson,Michael Jackson,11/25/2012,Blue Grass,7.99
+House of the Rising Son,The Animals,The Animals,11/29/1994,Country,9.99
+Something,The Beatles,The Beatles,11/27/1993,Techno,8.99
+Paint it Black,The Rolling Stones,The Rolling Stones,11/19/1986,Reggae,16.99
+Sweet Home Alabama,Lynyrd Skynyrd,Lynyrd Skynyrd,11/17/1975,Grunge,10.99
+Hang On,Teenage Fanclub,Teenage Fanclub,11/18/1972,Jazz,11.99
+Moonlight Sonata,Ludwig van Beethoven,Ludwig van Beethoven,11/16/1973,Gospel,7.99
+Always,Bon Jovi,Bon Jovi,12/28/2015,Rock,6.99
+Redemption Song,Bob Marley,Bob Marley,12/20/1963,Pop,8.99
+Eleanor Rigby,the Beatles,the Beatles,12/28/1965,Classic,6.99
+Don?t Stop Believing,Journey,Journey,12/13/1956,Blue Grass,7.99
+Respect,Aritha Franklin,Aritha Franklin,3/27/1956,Country,16.99
+Layla,Derek and the Dominos,Derek and the Dominos,11/23/1961,Techno,10.99
+MrTambourine Man,Bob Dylan,Bob Dylan,10/28/1961,Reggae,13.99
+Every Breath You Take,The Police,The Police,5/20/1961,Grunge,16.99
+Purple Rain,Prince,Prince,8/14/1962,Jazz,7.99
+Alive,Pearl Jam,Pearl Jam,8/24/1966,Gospel,11.99
+Over the Rainbow,Judy Garland,Judy Garland,5/17/1966,Rock,13.99
+Hallelujah,Jeff Buckley,Jeff Buckley,5/25/1966,Pop,6.99
+Won't Get Fooled Again,The Who,The Who,5/29/1967,Classic,11.99
+Lonely Boy,Andrew Gold,Andrew Gold,7/13/1970,Blue Grass,13.99
+Life On Mars,David Bowie,David Bowie,9/14/1971,Country,11.99
+Master of Puppets,Metallica,Metallica,3/14/1972,Techno,16.99
+One,Metallica,Metallica,1/15/1975,Reggae,9.99
+Clair De Lune,Claude Debussy,Claude Debussy,1/24/1976,Grunge,13.99
+Under the Bridge,Red Hot Chili Peppers,Red Hot Chili Peppers,11/22/1976,Jazz,16.99
+Paradise City,Guns n Roses,Guns n Roses,5/26/1977,Gospel,9.99
+What's Going On,Marvin Gaye,Marvin Gaye,10/29/1978,Rock,8.99
+We Will Rock You/We Are the Champions,Queen,Queen,8/23/1982,Pop,11.99
+Behind Blue Eyes,The Who,The Who,9/24/1984,Classic,11.99
+Lose Yourself,Eminem,Eminem,3/26/1985,Blue Grass,12.99
+My Generation,the Who,the Who,8/30/1986,Country,6.99
+Nothing Else Matters,Metallica,Metallica,9/21/1987,Techno,9.99
+Blue,the Jayhawks,the Jayhawks,2/28/1988,Reggae,15.99
+Come Together,The Beatles,The Beatles,9/28/1993,Grunge,15.99
+Norwegian Wood,the Beatles,the Beatles,1/29/1998,Jazz,11.99
+Shine on You Crazy Diamond,Pink Floyd,Pink Floyd,10/16/2001,Gospel,12.99
+At Last,Etta James,Etta James,6/21/2002,Rock,11.99
+Dust in the Wind,Kansas,Kansas,10/24/2002,Pop,11.99
+Livin On a Prayer,Bon Jovi,Bon Jovi,4/25/2008,Classic,13.99
+Changes,Tupac Shakur,Tupac Shakur,8/24/2008,Blue Grass,6.99
+Carry On My Wayward Son,Kansas,Kansas,8/24/2011,Country,8.99
+Fur Elise,Ludwig Van Beethoven,Ludwig Van Beethoven,6/18/2011,Techno,16.99
+Me and Bobby McGee,Janis Joplin,Janis Joplin,7/20/2013,Reggae,16.99
+Don't Give Up On Me,Solomon Burke,Solomon Burke,12/28/2013,Grunge,11.99
+Let's Get it On,Marvin Gaye,Marvin Gaye,11/17/2015,Jazz,10.99
+Born to be Wild,Steppenwolf,Steppenwolf,8/16/2016,Gospel,9.99
